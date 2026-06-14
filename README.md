@@ -75,8 +75,6 @@ This provides a high-level overview of organizational performance presenting the
 * Profit Margin: 14.23%
 * Total Units Sold: 1M
 
-Visuals include a Sales Performance Trend line chart (monthly), Revenue by Business Segment bar chart, Regional Profitability Analysis (horizontal bar), and a Total Profit by Country map — giving executives a complete strategic snapshot in one view.
-
 ### Page 2: Sales Performance Analysis
 Drills into revenue distribution with four focused visuals:
 * Revenue by Country (horizontal bar):  ranked from highest (USA: $25.03M) to lowest (Mexico: $20.95M)
