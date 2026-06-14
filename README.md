@@ -67,7 +67,7 @@ Data Quality: Clean, structured dataset suitable for financial modelling and BI 
 
 The report is organized into four pages, each addressing a distinct analytical domain:
 
-### Page 1 — Executive Summary (Overview)
+### Page 1: Executive Summary (Overview)
 This provides a high-level overview of organizational performance presenting the most critical KPIs at a glance:
 * Total Sales: $118.73M
 * Total Profit: $16.89M
