@@ -38,7 +38,7 @@ The dashboard enables users to:
 
 ### Executive Summary
 
-![Executive Summary](Executive%20Summary.PNG)
+![Executive Summary](images/executive_summary.PNG)
 
 ### Sales Performance
 
