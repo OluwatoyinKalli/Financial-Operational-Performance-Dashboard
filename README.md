@@ -42,7 +42,7 @@ The dashboard enables users to:
 
 ### Sales Performance
 
-![Sales Analysis](Sales%20Performance%20Analysis.PNG)
+![Sales Performance](images/sales_performance.PNG)
 
 ### Profitability & Margin
 
