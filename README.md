@@ -46,7 +46,7 @@ The dashboard enables users to:
 
 ### Profitability & Margin
 
-![Profitability Analysis](Profitability%20%26%20Margin%20Analysis.PNG)
+![Profitability Margin](Profitability%20%26%20Margin.PNG)
 
 ### Operational Performance
 
